@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 <a href="https://space.bilibili.com/398953031?spm_id_from=333.1007.0.0" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-2hlovely-%23e672c2?style=flat"/></a>
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=2hlovely&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github"/>
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=2hlovely&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github"/>
+
+## Hi!
+
+I am currently a Master's student at Guizhou University, primarily focusing on zero-shot learning and domain generalization.
