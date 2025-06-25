@@ -1,4 +1,4 @@
-## Welcome! 👋
+## Welcome! 👋I am currently a Master's student at Guizhou University, primarily focusing on zero-shot learning and domain generalization.
 
 <!--
 **2hlovely/2hlovely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api?username=2hlovely&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github"/>
 
-## Hi!
-
-I am currently a Master's student at Guizhou University, primarily focusing on zero-shot learning and domain generalization.
+<img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2hlovely&locale=en&line_height=33&theme=dracula&langs_count=5"/>
+  
