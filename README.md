@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 <img   align="left" src="https://github-readme-stats.vercel.app/api?username=2hlovely&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github"/>
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2hlovely&locale=en&line_height=33&theme=dracula&langs_count=5"/>
-  
-AAAAA
