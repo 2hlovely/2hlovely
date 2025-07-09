@@ -1,4 +1,4 @@
-## Welcome! 👋I am currently a Master's student at Guizhou University, primarily focusing on zero-shot learning and domain generalization.
+## Welcome! 👋I am currently a Master's student at Guizhou University, primarily focusing on Zero-Shot Learning and Domain Generalization.
 
 <!--
 **2hlovely/2hlovely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
